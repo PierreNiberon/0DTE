@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,spx_close,vix_close,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency
+SPXW250407C05100000,2025-04-04 20:14:55+00:00,5074.080078125,45.310001373291016,5100.0,68.6,65.9,67.7,-235.6,-77.44905,1264.0,37,0.43478958770751963,False,REGULAR,USD
